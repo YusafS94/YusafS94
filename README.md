@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <!-- <a href="https://app.daily.dev/YusafWebDev"><img src="https://api.daily.dev/devcards/c5bde001c23242db9c1afee378cdb4fc.png?r=ix4" width="400" alt="Yusaf's Dev Card"/></a> -->
-<a href="https://app.daily.dev/YusafWebDev"><img src="https://github.com/YusafS94/YusafS94/main/devcard.svg" width="400" alt="YusafS94"/></a>
+<a href="https://app.daily.dev/YusafWebDev"><img src="https://github.com/YusafS94/YusafS94/blob/main/devcard.svg" width="400" alt="YusafS94"/></a>
 <!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a> -->
