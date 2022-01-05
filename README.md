@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Working on a university assignment revolving around PHP and SQL
 - 🌱 I’m currently learning responsive web design and vanilla JavaScript
 - 👯 Looking to collaborate on anything fun, especially if it involves 3D/three.js
-- 📫 How to reach me: https://yusafs94.github.io/Portfolio/
+- 💻 Portfolio: https://yusafs94.github.io/Portfolio/
 
 
 
