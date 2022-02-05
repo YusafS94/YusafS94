@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="banner.png">
 - 🔭 Working on a university assignment revolving around PHP and SQL
 - 🌱 I’m currently learning responsive web design and vanilla JavaScript
 - 👯 Looking to collaborate on anything fun, especially if it involves 3D/three.js
 - 💻 Portfolio: https://yusafs94.github.io/Portfolio/
 
 
+Skills:
 
-<!-- <a href="https://app.daily.dev/YusafWebDev"><img src="https://api.daily.dev/devcards/c5bde001c23242db9c1afee378cdb4fc.png?r=ix4" width="400" alt="Yusaf's Dev Card"/></a> -->
-<a href="https://app.daily.dev/YusafWebDev"><img src="https://github.com/YusafS94/YusafS94/blob/main/devcard.svg" width="400" alt="YusafS94"/></a>
-<!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a> -->
+
