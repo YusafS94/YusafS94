@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 
 Skills:
+<br>
 Frontend: HTML, CSS, JavaScript
+<br>
 Backend: PHP, SQL
+<br>
 Design: Figma, Illustrator
