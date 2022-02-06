@@ -33,4 +33,4 @@ Skills:
 <br>
 🖼️ Design: Figma, Illustrator
 <br>
-🏗️Frameworks: Bootstrap
+🏗️ Frameworks: Bootstrap
