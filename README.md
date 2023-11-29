@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <img src="banner.png">
 - 🔭 Working on a Front-End mobile MMA app
+
  <br>
+
 - 🌱 I’m currently learning Node JS, API development using Express and Axios, and React
 - <br>
 - 👯 Looking to collaborate on anything fun, especially if it involves 3D/three.js
