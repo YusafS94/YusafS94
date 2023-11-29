@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="banner.png">
-- 🔭 Working on a university assignment revolving around PHP and SQL
+- 🔭 Working on a Front-End mobile MMA app
 - <br>
-- 🌱 I’m currently learning responsive web design and vanilla JavaScript
+- 🌱 I’m currently learning Node JS, API development using Express and Axios, and React
 - <br>
 - 👯 Looking to collaborate on anything fun, especially if it involves 3D/three.js
 - <br>
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 Skills:
 <br>
-🖥️ Frontend: HTML, CSS, JavaScript
+🖥️ Frontend: HTML, CSS, JavaScript, Fetch API
 <br>
-🌐 Backend: PHP, SQL
+🌐 Backend: PHP, SQL, Node js, Express, Axios
 <br>
 🖼️ Design: Figma, Illustrator
 <br>
-🏗️ Frameworks: Bootstrap
+🏗️ Frameworks: Tailwind, React
