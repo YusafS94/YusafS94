@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 Skills:
 <br>
-🖥️ Frontend: HTML, CSS, JavaScript, Fetch API
+🖥️ Frontend: HTML, CSS, JavaScript, PHP, WordPress, Fetch API
 <br>
 🌐 Backend: PHP, SQL, Node js, Express, Axios
 <br>
 🖼️ Design: Figma, Illustrator
 <br>
-🏗️ Frameworks: Tailwind, React
+🏗️ Frameworks: Tailwind, React, Bootstrap 4
