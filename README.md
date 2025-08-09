@@ -15,19 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
 <img src="banner.png">
-- 🔭 Working on a Front-End mobile MMA app
-- 🌱 I’m currently learning Node JS, API development using Express and Axios, and React
-- 👯 Looking to collaborate on anything fun, especially if it involves 3D/three.js
-- 💻 Portfolio: https://yusafs94.github.io/Portfolio/
 
+I’m a JavaScript developer with a focus on building clean, scalable, and user-friendly web applications.  
+Right now, I’m sharpening my **core JavaScript** and **React/Next.js** skills while also exploring the creative side of the web with **Three.js** and 3D development.
 
-Skills:
-<br>
-🖥️ Frontend: HTML, CSS, JavaScript, PHP, WordPress, Fetch API
-<br>
-🌐 Backend: PHP, SQL, Node js, Express, Axios
-<br>
-🖼️ Design: Figma, Illustrator
-<br>
-🏗️ Frameworks: Tailwind, React, Bootstrap 4
+🎓 I hold a **Bachelor’s Degree in Web Programming with Honours (First Class)**, where I studied and built projects in WordPress, PHP, SQL, databases, web design, UI/UX design, JavaScript, HTML, CSS, Node.js, API development, and user experience design.
+
+- 🔭 Currently building full-stack projects to deepen my JS fundamentals
+- 🌱 Actively learning: Advanced JavaScript, React, Next.js, and API integrations
+- 🎨 Passion project: Completing the Three.js Journey course by Bruno Simon
+- 💼 Open to collaboration on impactful, interesting web projects  
+- 💻 Portfolio: [yusaf.dev](https://yusaf.dev/)
+
+---
+
+#### 🛠️ Skills
+
+**Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, SQL, PostgreSQL, PHP  
+**CMS:** WordPress  
+**Design & Tools:** Figma, Adobe Illustrator, Git/GitHub, Jira  
+**Testing:** Jest, Cypress  
+**Creative Tech:** Three.js, Blender (learning in progress)  
+
+---
+
+<!---
+⚡ *I believe strong fundamentals open the door to any framework — and a dash of creativity makes projects unforgettable.*
+-->
