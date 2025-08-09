@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **YusafS94/YusafS94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-
+<!---
 <img src="banner.png">
+-->
 
 I’m a JavaScript developer with a focus on building clean, scalable, and user-friendly web applications.  
 Right now, I’m sharpening my **core JavaScript** and **React/Next.js** skills while also exploring the creative side of the web with **Three.js** and 3D development.
